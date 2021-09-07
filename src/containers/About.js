@@ -1,0 +1,24 @@
+import React from 'react';
+
+
+const About = props => (
+    <div>
+        <h2>About</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rhoncus vitae dui eget fermentum. Cras et odio mi. Aliquam pellentesque justo at lacinia viverra. Curabitur elit erat, hendrerit in lobortis ac, aliquam laoreet lorem. Aenean faucibus bibendum dui. Pellentesque a erat in risus euismod lobortis. Aliquam porttitor sodales lorem consectetur dictum. Vestibulum consectetur egestas lorem quis laoreet. Praesent risus odio, volutpat non sapien at, ultrices dapibus est. Sed in dignissim dolor, in mattis odio. Quisque interdum urna faucibus, convallis felis facilisis, sollicitudin nunc.
+
+        Aenean nec mauris vitae ipsum pretium vestibulum vel eget velit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue lorem efficitur tellus lobortis, sit amet venenatis urna rhoncus. Aenean hendrerit odio est, venenatis facilisis turpis varius a. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras metus leo, tincidunt nec elementum vel, iaculis vel lectus. Ut at odio malesuada, hendrerit nulla in, tempus lorem.
+
+        Proin ornare in eros ut fringilla. Etiam tempus, mi et efficitur suscipit, massa eros rutrum nunc, ac finibus sapien elit vitae dui. Morbi vulputate nibh quis mi egestas vulputate. In quis feugiat turpis. Vestibulum vel mollis nisl, et placerat neque. Nunc pellentesque, mauris vel imperdiet blandit, nibh ex sollicitudin purus, et euismod massa ex ac tortor. Vestibulum pulvinar ex elit, at elementum massa accumsan vel. Nulla facilisi. Cras porta eros sed magna vehicula, ac mattis lectus bibendum. Integer non velit eu elit auctor molestie. Sed id nisi eu mi accumsan pellentesque. Praesent pellentesque eu libero nec commodo.
+
+        Donec dictum est ac erat pharetra, quis mattis dolor pretium. Nulla facilisi. Cras rhoncus sit amet tellus vitae porttitor. Duis quis turpis pellentesque, interdum dolor at, accumsan magna. Nunc commodo lorem ac diam rutrum, vitae dignissim massa interdum. Suspendisse quis libero quis dui varius viverra nec ac lorem. Proin cursus sed quam vel ultricies. Phasellus fermentum ligula sapien, nec tincidunt turpis egestas eget. In porta nibh sed fringilla facilisis. Sed eu magna placerat, faucibus orci a, facilisis enim. Phasellus lacinia gravida odio quis mollis. Maecenas eget tempor tellus, quis lobortis massa.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rhoncus vitae dui eget fermentum. Cras et odio mi. Aliquam pellentesque justo at lacinia viverra. Curabitur elit erat, hendrerit in lobortis ac, aliquam laoreet lorem. Aenean faucibus bibendum dui. Pellentesque a erat in risus euismod lobortis. Aliquam porttitor sodales lorem consectetur dictum. Vestibulum consectetur egestas lorem quis laoreet. Praesent risus odio, volutpat non sapien at, ultrices dapibus est. Sed in dignissim dolor, in mattis odio. Quisque interdum urna faucibus, convallis felis facilisis, sollicitudin nunc.
+
+        Aenean nec mauris vitae ipsum pretium vestibulum vel eget velit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue lorem efficitur tellus lobortis, sit amet venenatis urna rhoncus. Aenean hendrerit odio est, venenatis facilisis turpis varius a. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras metus leo, tincidunt nec elementum vel, iaculis vel lectus. Ut at odio malesuada, hendrerit nulla in, tempus lorem.
+
+        Proin ornare in eros ut fringilla. Etiam tempus, mi et efficitur suscipit, massa eros rutrum nunc, ac finibus sapien elit vitae dui. Morbi vulputate nibh quis mi egestas vulputate. In quis feugiat turpis. Vestibulum vel mollis nisl, et placerat neque. Nunc pellentesque, mauris vel imperdiet blandit, nibh ex sollicitudin purus, et euismod massa ex ac tortor. Vestibulum pulvinar ex elit, at elementum massa accumsan vel. Nulla facilisi. Cras porta eros sed magna vehicula, ac mattis lectus bibendum. Integer non velit eu elit auctor molestie. Sed id nisi eu mi accumsan pellentesque. Praesent pellentesque eu libero nec commodo.
+
+        Donec dictum est ac erat pharetra, quis mattis dolor pretium. Nulla facilisi. Cras rhoncus sit amet tellus vitae porttitor. Duis quis turpis pellentesque, interdum dolor at, accumsan magna. Nunc commodo lorem ac diam rutrum, vitae dignissim massa interdum. Suspendisse quis libero quis dui varius viverra nec ac lorem. Proin cursus sed quam vel ultricies. Phasellus fermentum ligula sapien, nec tincidunt turpis egestas eget. In porta nibh sed fringilla facilisis. Sed eu magna placerat, faucibus orci a, facilisis enim. Phasellus lacinia gravida odio quis mollis. Maecenas eget tempor tellus, quis lobortis massa.</p>
+    </div>
+)
+
+export default About;
